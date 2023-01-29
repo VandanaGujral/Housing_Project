@@ -11,3 +11,8 @@ Creating conda environment
 '''
 conda create -p venv python==3.7 -y
 '''
+
+BUILD DOCKER IMAGE
+'''
+docker build -t <image_name>:<tagname>
+'''
